@@ -1,0 +1,13 @@
+black==22.3.0
+dash
+dash-bootstrap-components
+dash-core-components
+dash-html-components
+dash-renderer
+dash_daq
+flake8
+ipykernel
+nbformat>=4.2.0
+pandas
+plotly>=5.8.0
+pre-commit>=2.19.0

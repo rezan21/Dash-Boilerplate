@@ -1,0 +1,19 @@
+:root {
+    --first-color: #1b1b1b;
+    --second-color: black;
+    --third-color: white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1rem;
+    color: var(--third-color);
+    background-color: var(--second-color);
+}
